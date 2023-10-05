@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  GHFollowerss
+//  GHFollowers
 //
-//  Created by Uyg'un Tursunov on 06/08/23.
+//  Created by Uyg'un Tursunov on 05/08/23.
 //
 
 import UIKit
